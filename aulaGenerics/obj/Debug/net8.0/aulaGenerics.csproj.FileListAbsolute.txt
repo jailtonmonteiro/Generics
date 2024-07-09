@@ -1,0 +1,14 @@
+E:\Cursos\CSharp\Generics\aulaGenerics\bin\Debug\net8.0\aulaGenerics.exe
+E:\Cursos\CSharp\Generics\aulaGenerics\bin\Debug\net8.0\aulaGenerics.deps.json
+E:\Cursos\CSharp\Generics\aulaGenerics\bin\Debug\net8.0\aulaGenerics.runtimeconfig.json
+E:\Cursos\CSharp\Generics\aulaGenerics\bin\Debug\net8.0\aulaGenerics.dll
+E:\Cursos\CSharp\Generics\aulaGenerics\bin\Debug\net8.0\aulaGenerics.pdb
+E:\Cursos\CSharp\Generics\aulaGenerics\obj\Debug\net8.0\aulaGenerics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\CSharp\Generics\aulaGenerics\obj\Debug\net8.0\aulaGenerics.AssemblyInfoInputs.cache
+E:\Cursos\CSharp\Generics\aulaGenerics\obj\Debug\net8.0\aulaGenerics.AssemblyInfo.cs
+E:\Cursos\CSharp\Generics\aulaGenerics\obj\Debug\net8.0\aulaGenerics.csproj.CoreCompileInputs.cache
+E:\Cursos\CSharp\Generics\aulaGenerics\obj\Debug\net8.0\aulaGenerics.dll
+E:\Cursos\CSharp\Generics\aulaGenerics\obj\Debug\net8.0\refint\aulaGenerics.dll
+E:\Cursos\CSharp\Generics\aulaGenerics\obj\Debug\net8.0\aulaGenerics.pdb
+E:\Cursos\CSharp\Generics\aulaGenerics\obj\Debug\net8.0\aulaGenerics.genruntimeconfig.cache
+E:\Cursos\CSharp\Generics\aulaGenerics\obj\Debug\net8.0\ref\aulaGenerics.dll
