@@ -1,16 +1,19 @@
-﻿namespace aulaGenerics{
-    class Program{
+﻿namespace aulaGenerics
+{
+    class Program
+    {
         static void Main(string[] args)
         {
-            PrintServiceString printService = new PrintServiceString();
+            PrintService<int> printService = new PrintService<int>();
 
             Console.Write("Quantos valores? ");
             int n = int.Parse(Console.ReadLine());
 
 
-            for(int i =0; i < n; i++){
+            for (int i = 0; i < n; i++)
+            {
                 Console.Write($"Valor {i}: ");
-                string x = Console.ReadLine();
+                int x = int.Parse(Console.ReadLine());
                 printService.AddValue(x);
             }
 
